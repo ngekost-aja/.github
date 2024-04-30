@@ -1,3 +1,1 @@
-Halo semuanya!
-
-Mari kita ngekost!
+Kami adalah sebuah tim dengan fokus untuk mengerjakan sebuah website yang digunakan sebagai bahan pembelajaran.  Fokus utama proyek kami adalah menciptakan sebuah platform penyewaan kamar kost yang disesuaikan untuk mahasiswa. Proyek ini kami kerjakan di sela-sela kesibukan kuliah yang kami jalani selama semester 2. Akun organisasi GitHub kami digunakan khusus untuk mendokumentasikan dan mengelola proyek ini. Kami berkomitmen untuk memperluas pengetahuan kami dalam pengembangan web sambil menciptakan solusi yang bermanfaat bagi komunitas mahasiswa dan lainnya.
